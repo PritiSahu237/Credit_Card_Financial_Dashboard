@@ -1,5 +1,4 @@
 # Credit_Card_Financial_Dashboard
-Power BI Dashboard
 Built an end-to-end Credit Card Financial Dashboard to analyze customer behavior, transaction trends, and revenue performance
 Designed and created relational tables (cc_detail, cust_detail) in MySQL for structured data storage
 Imported and processed large CSV datasets using bulk data loading (LOAD DATA INFILE), resolving file permission and data format issues
